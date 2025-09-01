@@ -34,7 +34,7 @@ Smart-Water-Dispenser/
 ├── code/
 │ └── smart_water_dispenser.ino
 ├── README.md
-└── circuit_diagram.png (optional, if you add one)
+└── circuit_diagram.png
 
 yaml
 Copy code
